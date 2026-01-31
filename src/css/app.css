@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --zmp-primary-color: #007aff;
+}
+
+.page {
+  background-color: white;
+  min-height: 100vh;
+}
