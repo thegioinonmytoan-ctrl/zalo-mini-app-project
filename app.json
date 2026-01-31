@@ -1,0 +1,17 @@
+{
+  "app": {
+    "title": "Zalo Mini App",
+    "headerTitle": "Zalo Mini App",
+    "headerColor": "#007aff",
+    "textColor": "white",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "pages": [
+    "pages/index",
+    "pages/about"
+  ],
+  "list": []
+}
